@@ -79,7 +79,7 @@ The Inventory Tracker calculates the running stock levels per product based on s
 ![](inventory.png)
 
 
-### 5. **Overview**
+### 5. **Inventory Overview**
 The Inventory Overview is a  read-only dashboard-style sheet that summarizes key product and stock metrics.
 * Product ID: Automatically pulled from the Product Catalog.
 * Product Name: Auto-filled from the Product Catalog.
@@ -89,7 +89,7 @@ The Inventory Overview is a  read-only dashboard-style sheet that summarizes key
 * Total Items Sold: Cumulative quantity sold for each product. Auto-calculated from the Sales Log.
 
  
-  ![](overview.png)
+  ![](updated_overview.png)
 
 
 ##  How to Use the Template
